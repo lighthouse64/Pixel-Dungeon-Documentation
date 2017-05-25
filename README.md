@@ -1,2 +1,2 @@
 # Pixel-Dungeon-Documentation
-Documentation for the Pixel Dungeon Codebase
+Documentation goes on the wiki.
